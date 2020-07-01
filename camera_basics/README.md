@@ -9,10 +9,10 @@ How to use it?
   
 Performance?
   source chessboard image as a sample(left01.jpg)
-  ![Alt text](https://github.com/QinghuiXing/stereo/blob/master/camera_basics/src_gray.jpg)
+  ![source image](https://github.com/QinghuiXing/stereo/blob/master/camera_basics/src_gray.jpg)
   
   1. camera calibration
-  ![Alt text](https://github.com/QinghuiXing/stereo/blob/master/camera_basics/2d_points_detected.jpg)
+  ![2d_points_detected](https://github.com/QinghuiXing/stereo/blob/master/camera_basics/2d_points_detected.jpg)
   
   2. undistort
-  ![Alt text](https://github.com/QinghuiXing/stereo/blob/master/camera_basics/undistorted.jpg)
+  ![undistorted](https://github.com/QinghuiXing/stereo/blob/master/camera_basics/undistorted.jpg)
