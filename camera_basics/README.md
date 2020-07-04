@@ -9,6 +9,3 @@ How to use it
 =====
     Simply change the image path and extension into your own
     then run it.
-Performance
-=====
-    (left01.jpg as a sample)
