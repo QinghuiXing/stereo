@@ -7,5 +7,5 @@ What it can do
     2.get the sparity map of an image to estimate its scene-depth
 How to use it
 =====
-    Simply change the image path and extension into your own
+    Simply change the image path into your own
     then run it.
