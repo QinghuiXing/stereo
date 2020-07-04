@@ -1,7 +1,7 @@
 What is it
 =====
     codes for stereo problem 6 and 7
-What it can do
+What can it do
 =====
     1.It used some opencv API to realize camera calibration.
     2.Undistort the images using camera matrix estimated.
