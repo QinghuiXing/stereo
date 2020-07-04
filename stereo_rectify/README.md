@@ -1,7 +1,7 @@
 What is it
 =====
     codes for stereo problem 14
-What it can do
+What can it do
 =====
     1.It used some opencv API to realize stereo rectification.
     2.gives the new transformation matrixs for two camera to get their image planes parallel to each other
