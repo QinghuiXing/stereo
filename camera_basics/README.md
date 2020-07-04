@@ -1,6 +1,6 @@
 What is it
 =====
-    codes for problem 6 and 7
+    codes for stereo problem 6 and 7
 What it can do
 =====
     1.It used some opencv API to realize camera calibration.
