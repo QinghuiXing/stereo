@@ -5,6 +5,7 @@ What it can do
 =====
     1.It used some opencv API to realize stereo calibration.
     2.estimate the distance between two camera (with chess board unit length known)
+      (results are shown in result.txt)
 How to use it
 =====
     Simply change the (left&right) image path and extension into your own
